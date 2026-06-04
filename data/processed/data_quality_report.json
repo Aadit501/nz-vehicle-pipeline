@@ -1,0 +1,554 @@
+{
+  "completeness": {
+    "objectid": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "basic_colour": {
+      "non_null": 356031,
+      "null": 4,
+      "completeness_pct": 100.0
+    },
+    "body_type": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "cc_rating": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "import_status": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "make": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "model": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "fuel_type": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "reg_year": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "reg_month": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "vehicle_year": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "gross_vehicle_mass": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "number_of_seats": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "number_of_axles": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "vehicle_type": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "vehicle_usage": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "nz_assembled": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "original_country": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "tla": {
+      "non_null": 355379,
+      "null": 656,
+      "completeness_pct": 99.82
+    },
+    "postcode": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "transmission_type": {
+      "non_null": 169304,
+      "null": 186731,
+      "completeness_pct": 47.55
+    },
+    "power_rating": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "vdam_weight": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "fc_combined": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "fc_urban": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "fc_extra_urban": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "synthetic_greenhouse_gas": {
+      "non_null": 285916,
+      "null": 70119,
+      "completeness_pct": 80.31
+    },
+    "vin11": {
+      "non_null": 298105,
+      "null": 57930,
+      "completeness_pct": 83.73
+    },
+    "flag_invalid_reg_year": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "flag_invalid_vehicle_year": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "flag_suspect_cc": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "flag_suspect_gvm": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "flag_high_fuel_consumption": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "fleet_age": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "reg_lag": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "is_ev": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "is_hybrid": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "is_zero_emission": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "efficiency_tier": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "gvm_class": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "age_band": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "region": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "nz_new": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "domestic": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    },
+    "has_fuel_data": {
+      "non_null": 356035,
+      "null": 0,
+      "completeness_pct": 100.0
+    }
+  },
+  "uniqueness": {
+    "objectid": {
+      "unique_count": 356035,
+      "unique_pct": 100.0
+    },
+    "basic_colour": {
+      "unique_count": 14,
+      "unique_pct": 0.0039
+    },
+    "body_type": {
+      "unique_count": 26,
+      "unique_pct": 0.0073
+    },
+    "cc_rating": {
+      "unique_count": 1542,
+      "unique_pct": 0.4331
+    },
+    "import_status": {
+      "unique_count": 4,
+      "unique_pct": 0.0011
+    },
+    "make": {
+      "unique_count": 595,
+      "unique_pct": 0.1671
+    },
+    "model": {
+      "unique_count": 17149,
+      "unique_pct": 4.8167
+    },
+    "fuel_type": {
+      "unique_count": 8,
+      "unique_pct": 0.0022
+    },
+    "reg_year": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "reg_month": {
+      "unique_count": 12,
+      "unique_pct": 0.0034
+    },
+    "vehicle_year": {
+      "unique_count": 102,
+      "unique_pct": 0.0286
+    },
+    "gross_vehicle_mass": {
+      "unique_count": 2485,
+      "unique_pct": 0.698
+    },
+    "number_of_seats": {
+      "unique_count": 58,
+      "unique_pct": 0.0163
+    },
+    "number_of_axles": {
+      "unique_count": 7,
+      "unique_pct": 0.002
+    },
+    "vehicle_type": {
+      "unique_count": 14,
+      "unique_pct": 0.0039
+    },
+    "vehicle_usage": {
+      "unique_count": 8,
+      "unique_pct": 0.0022
+    },
+    "nz_assembled": {
+      "unique_count": 3,
+      "unique_pct": 0.0008
+    },
+    "original_country": {
+      "unique_count": 47,
+      "unique_pct": 0.0132
+    },
+    "tla": {
+      "unique_count": 67,
+      "unique_pct": 0.0188
+    },
+    "postcode": {
+      "unique_count": 1104,
+      "unique_pct": 0.3101
+    },
+    "transmission_type": {
+      "unique_count": 18,
+      "unique_pct": 0.0051
+    },
+    "power_rating": {
+      "unique_count": 330,
+      "unique_pct": 0.0927
+    },
+    "vdam_weight": {
+      "unique_count": 52,
+      "unique_pct": 0.0146
+    },
+    "fc_combined": {
+      "unique_count": 178,
+      "unique_pct": 0.05
+    },
+    "fc_urban": {
+      "unique_count": 198,
+      "unique_pct": 0.0556
+    },
+    "fc_extra_urban": {
+      "unique_count": 103,
+      "unique_pct": 0.0289
+    },
+    "synthetic_greenhouse_gas": {
+      "unique_count": 20,
+      "unique_pct": 0.0056
+    },
+    "vin11": {
+      "unique_count": 19940,
+      "unique_pct": 5.6006
+    },
+    "flag_invalid_reg_year": {
+      "unique_count": 1,
+      "unique_pct": 0.0003
+    },
+    "flag_invalid_vehicle_year": {
+      "unique_count": 1,
+      "unique_pct": 0.0003
+    },
+    "flag_suspect_cc": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "flag_suspect_gvm": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "flag_high_fuel_consumption": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "fleet_age": {
+      "unique_count": 101,
+      "unique_pct": 0.0284
+    },
+    "reg_lag": {
+      "unique_count": 51,
+      "unique_pct": 0.0143
+    },
+    "is_ev": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "is_hybrid": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "is_zero_emission": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "efficiency_tier": {
+      "unique_count": 5,
+      "unique_pct": 0.0014
+    },
+    "gvm_class": {
+      "unique_count": 5,
+      "unique_pct": 0.0014
+    },
+    "age_band": {
+      "unique_count": 4,
+      "unique_pct": 0.0011
+    },
+    "region": {
+      "unique_count": 16,
+      "unique_pct": 0.0045
+    },
+    "nz_new": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    },
+    "domestic": {
+      "unique_count": 1,
+      "unique_pct": 0.0003
+    },
+    "has_fuel_data": {
+      "unique_count": 2,
+      "unique_pct": 0.0006
+    }
+  },
+  "range_checks": {
+    "vehicle_year": {
+      "expected_min": 1885,
+      "expected_max": 2026,
+      "actual_min": 1912.0,
+      "actual_max": 2026.0,
+      "out_of_range_count": 0,
+      "out_of_range_pct": 0.0
+    },
+    "reg_year": {
+      "expected_min": 1950,
+      "expected_max": 2026,
+      "actual_min": 2025.0,
+      "actual_max": 2026.0,
+      "out_of_range_count": 0,
+      "out_of_range_pct": 0.0
+    },
+    "cc_rating": {
+      "expected_min": 0,
+      "expected_max": 20000,
+      "actual_min": 0.0,
+      "actual_max": 70000.0,
+      "out_of_range_count": 20,
+      "out_of_range_pct": 0.006
+    },
+    "gross_vehicle_mass": {
+      "expected_min": 0,
+      "expected_max": 200000,
+      "actual_min": 0.0,
+      "actual_max": 168060.0,
+      "out_of_range_count": 0,
+      "out_of_range_pct": 0.0
+    },
+    "number_of_seats": {
+      "expected_min": 0,
+      "expected_max": 200,
+      "actual_min": 0.0,
+      "actual_max": 95.0,
+      "out_of_range_count": 0,
+      "out_of_range_pct": 0.0
+    },
+    "power_rating": {
+      "expected_min": 0,
+      "expected_max": 2000,
+      "actual_min": 0.0,
+      "actual_max": 999.0,
+      "out_of_range_count": 0,
+      "out_of_range_pct": 0.0
+    },
+    "fc_combined": {
+      "expected_min": 0,
+      "expected_max": 50,
+      "actual_min": 0.0,
+      "actual_max": 95.0,
+      "out_of_range_count": 2,
+      "out_of_range_pct": 0.001
+    },
+    "fleet_age": {
+      "expected_min": 0,
+      "expected_max": 140,
+      "actual_min": 0.0,
+      "actual_max": 113.0,
+      "out_of_range_count": 0,
+      "out_of_range_pct": 0.0
+    },
+    "reg_lag": {
+      "expected_min": 0,
+      "expected_max": 50,
+      "actual_min": 0.0,
+      "actual_max": 50.0,
+      "out_of_range_count": 0,
+      "out_of_range_pct": 0.0
+    }
+  },
+  "categorical_checks": {
+    "fuel_type": {
+      "valid_values": [
+        "DIESEL",
+        "ELECTRIC",
+        "HYBRID",
+        "LPG",
+        "PETROL",
+        "UNKNOWN"
+      ],
+      "unexpected_count": 35,
+      "unexpected_examples": {
+        "OTHER": 27,
+        "CNG": 8
+      }
+    },
+    "import_status": {
+      "valid_values": [
+        "NEW",
+        "RE-REG",
+        "SCRATCH",
+        "USED"
+      ],
+      "unexpected_count": 0,
+      "unexpected_examples": {}
+    },
+    "nz_assembled": {
+      "valid_values": [
+        "IMPORTED BUILT-UP",
+        "LOCALLY ASSEMBLED"
+      ],
+      "unexpected_count": 45630,
+      "unexpected_examples": {
+        "NZ ASSEMBLED/BUILT": 45525,
+        "UNKNOWN": 105
+      }
+    }
+  },
+  "cross_column_checks": {
+    "ev_nonzero_cc": {
+      "description": "Pure-electric vehicles with a non-zero CC rating",
+      "count": 267,
+      "pct": 0.075
+    },
+    "year_inversion": {
+      "description": "Vehicle manufactured AFTER NZ registration year",
+      "count": 2,
+      "pct": 0.001
+    },
+    "heavy_no_gvm": {
+      "description": "Heavy vehicles with missing GVM",
+      "count": 0,
+      "pct": 0.0
+    },
+    "ev_with_fuel_consumption": {
+      "description": "Electric vehicles with a reported fuel consumption",
+      "count": 243,
+      "pct": 0.068
+    }
+  },
+  "summary": {
+    "total_rows": 356035,
+    "total_columns": 45,
+    "avg_key_col_completeness": 100.0,
+    "range_issue_pct": 0.001,
+    "cross_col_issue_pct": 0.036,
+    "overall_quality_score": 99.96,
+    "grade": "A"
+  }
+}

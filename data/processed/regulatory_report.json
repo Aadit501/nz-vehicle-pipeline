@@ -1,0 +1,216 @@
+{
+  "fleet_overview": {
+    "total_registered_vehicles": 356035,
+    "snapshot_year": 2025,
+    "unique_makes": 595,
+    "unique_models": 17149,
+    "registration_span": "2025 \u2013 2026"
+  },
+  "emissions_profile": {
+    "fuel_type_counts": {
+      "HYBRID": 116965,
+      "PETROL": 113141,
+      "DIESEL": 59048,
+      "UNKNOWN": 51334,
+      "ELECTRIC": 15273,
+      "LPG": 239,
+      "OTHER": 27,
+      "CNG": 8
+    },
+    "fuel_type_pct": {
+      "HYBRID": 32.85,
+      "PETROL": 31.78,
+      "DIESEL": 16.58,
+      "UNKNOWN": 14.42,
+      "ELECTRIC": 4.29,
+      "LPG": 0.07,
+      "OTHER": 0.01,
+      "CNG": 0.0
+    },
+    "avg_fuel_consumption_by_fuel": {
+      "DIESEL": 7.8,
+      "ELECTRIC": 0.96,
+      "HYBRID": 4.26,
+      "LPG": 7.3,
+      "PETROL": 6.96
+    },
+    "zero_emission_pct": 4.29,
+    "hybrid_pct": 32.85,
+    "petrol_diesel_pct": 48.36
+  },
+  "fleet_age": {
+    "age_band_counts": {
+      "2020+": 245035,
+      "2010-2019": 101096,
+      "2000-2009": 5145,
+      "PRE-2000": 4759
+    },
+    "median_vehicle_year": 2025,
+    "mean_fleet_age": 4.0,
+    "pct_over_15_years": 2.8,
+    "pct_over_20_years": 2.0,
+    "oldest_vehicle_year": 1912
+  },
+  "heavy_vehicle_compliance": {
+    "total_heavy_vehicles": 5005,
+    "heavy_pct_of_fleet": 1.41,
+    "gvm_class_breakdown": {
+      "LIGHT": 291350,
+      "UNKNOWN": 51536,
+      "MEDIUM": 8144,
+      "EXTRA-HEAVY": 2801,
+      "HEAVY": 2204
+    },
+    "heavy_missing_gvm": 0,
+    "heavy_missing_gvm_pct": 0.0,
+    "avg_heavy_gvm_kg": 25982.0
+  },
+  "vehicle_usage": {
+    "usage_breakdown": {
+      "PRIVATE PASSENGER": 265384,
+      "OTHER GOODS": 48414,
+      "RENTAL": 21906,
+      "OTHER": 7993,
+      "TAXI COMMERCIAL PASSENGER": 4613,
+      "TRANSPORT LICENSED GOODS": 4592,
+      "AGRICULTURAL": 2900,
+      "EMERGENCY": 233
+    },
+    "commercial_pct": 16.18,
+    "rental_pct": 6.15
+  },
+  "regional_ev_penetration": [
+    {
+      "region": "Wellington",
+      "total": 27289,
+      "ev": 1699,
+      "ev_pct": 6.23
+    },
+    {
+      "region": "Auckland",
+      "total": 141928,
+      "ev": 7725,
+      "ev_pct": 5.44
+    },
+    {
+      "region": "Canterbury",
+      "total": 47027,
+      "ev": 2016,
+      "ev_pct": 4.29
+    },
+    {
+      "region": "Otago",
+      "total": 15835,
+      "ev": 563,
+      "ev_pct": 3.56
+    },
+    {
+      "region": "Taranaki",
+      "total": 6549,
+      "ev": 214,
+      "ev_pct": 3.27
+    },
+    {
+      "region": "Nelson-Tasman",
+      "total": 6843,
+      "ev": 210,
+      "ev_pct": 3.07
+    },
+    {
+      "region": "Waikato",
+      "total": 35063,
+      "ev": 1042,
+      "ev_pct": 2.97
+    },
+    {
+      "region": "Manawatu-Whanganui",
+      "total": 14327,
+      "ev": 409,
+      "ev_pct": 2.85
+    },
+    {
+      "region": "Northland",
+      "total": 10921,
+      "ev": 305,
+      "ev_pct": 2.79
+    },
+    {
+      "region": "Bay of Plenty",
+      "total": 21799,
+      "ev": 589,
+      "ev_pct": 2.7
+    },
+    {
+      "region": "Hawke's Bay",
+      "total": 9726,
+      "ev": 252,
+      "ev_pct": 2.59
+    },
+    {
+      "region": "Other/Unknown",
+      "total": 3485,
+      "ev": 79,
+      "ev_pct": 2.27
+    },
+    {
+      "region": "Marlborough",
+      "total": 3095,
+      "ev": 57,
+      "ev_pct": 1.84
+    },
+    {
+      "region": "West Coast",
+      "total": 2145,
+      "ev": 25,
+      "ev_pct": 1.17
+    },
+    {
+      "region": "Southland",
+      "total": 7090,
+      "ev": 74,
+      "ev_pct": 1.04
+    },
+    {
+      "region": "Gisborne",
+      "total": 2913,
+      "ev": 14,
+      "ev_pct": 0.48
+    }
+  ],
+  "import_profile": {
+    "import_status_counts": {
+      "NEW": 222250,
+      "USED": 121125,
+      "RE-REG": 10454,
+      "SCRATCH": 2206
+    },
+    "top_origin_countries": {
+      "JAPAN": 163880,
+      "NEW ZEALAND": 44170,
+      "THAILAND": 40100,
+      "CHINA": 34402,
+      "GERMANY": 17532,
+      "SOUTH KOREA": 17426,
+      "UNITED KINGDOM": 7469,
+      "UNITED STATES": 6648,
+      "INDIA": 4063,
+      "AUSTRALIA": 2807
+    },
+    "nz_new_pct": 62.42,
+    "domestic_assembly_pct": 0.0
+  },
+  "fuel_efficiency_policy": {
+    "vehicles_with_fc_data": 262213,
+    "pct_with_fc_data": 73.65,
+    "efficiency_tier_breakdown": {
+      "AVERAGE": 102790,
+      "GOOD": 74874,
+      "EXCELLENT": 73421,
+      "POOR": 11128
+    },
+    "avg_fc_all": 5.9,
+    "median_fc_all": 6.1,
+    "pct_excellent_or_good": 56.56,
+    "pct_poor": 4.24
+  }
+}
