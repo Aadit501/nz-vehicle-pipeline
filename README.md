@@ -1,4 +1,4 @@
-# 🚗 NZ Vehicle Registration — Data Pipeline & Anomaly Detection
+# NZ Vehicle Registration — Data Pipeline & Anomaly Detection
 
 > End-to-end ETL pipeline and anomaly detection system built on real NZTA open data.
 
